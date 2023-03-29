@@ -3,17 +3,17 @@ import {
   backend,
   creator,
   web,
-  apple,
-  android,
-  drone,
-  php,
+  javascript,
+  typescript,
+  html,
+  css,
   reactjs,
-  python,
-  php,
+  redux,
+  tailwind,
   nodejs,
   mongodb,
   git,
-  unity,
+  figma,
   docker,
   meta,
   starbucks,
@@ -46,47 +46,47 @@ const services = [
     icon: web,
   },
   {
-    title: "Mobile Game Developer",
+    title: "React Native Developer",
     icon: mobile,
   },
   {
-    title: "DevOps",
+    title: "Backend Developer",
     icon: backend,
   },
   {
-    title: "Digital Content Creator",
+    title: "Content Creator",
     icon: creator,
   },
 ];
 
 const technologies = [
   {
-    name: "Drone",
-    icon: drone,
+    name: "HTML 5",
+    icon: html,
   },
   {
-    name: "css",
+    name: "CSS 3",
     icon: css,
   },
   {
-    name: "apple",
-    icon: apple,
+    name: "JavaScript",
+    icon: javascript,
   },
   {
-    name: "android",
-    icon: android,
+    name: "TypeScript",
+    icon: typescript,
   },
   {
     name: "React JS",
     icon: reactjs,
   },
   {
-    name: "python",
-    icon: python,
+    name: "Redux Toolkit",
+    icon: redux,
   },
   {
-    name: "php",
-    icon: php,
+    name: "Tailwind CSS",
+    icon: tailwind,
   },
   {
     name: "Node JS",
@@ -104,7 +104,10 @@ const technologies = [
     name: "git",
     icon: git,
   },
-
+  {
+    name: "figma",
+    icon: figma,
+  },
   {
     name: "docker",
     icon: docker,
