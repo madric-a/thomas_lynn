@@ -65,15 +65,15 @@ const technologies = [
     icon: drone,
   },
   {
-    name: "Unity 3D",
+    name: "unity",
     icon: unity,
   },
   {
-    name: "Apple",
+    name: "apple",
     icon: apple,
   },
   {
-    name: "Android",
+    name: "android",
     icon: android,
   },
   {
@@ -81,11 +81,11 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Python",
+    name: "python",
     icon: python,
   },
   {
-    name: "PHP",
+    name: "php",
     icon: php,
   },
   {
@@ -104,10 +104,7 @@ const technologies = [
     name: "git",
     icon: git,
   },
-  {
-    name: "unity",
-    icon: unity,
-  },
+
   {
     name: "docker",
     icon: docker,

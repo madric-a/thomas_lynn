@@ -7,12 +7,12 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import css from "./tech/css.png";
+import apple from "./tech/apple.png";
 import docker from "./tech/docker.png";
 import unity from "./tech/unity.png";
 import git from "./tech/git.png";
 import drone from "./tech/drone.png";
-import apple from "./tech/apple.png";
+
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
