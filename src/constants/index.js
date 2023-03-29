@@ -5,8 +5,8 @@ import {
   web,
   javascript,
   android,
-  html,
-  css,
+  drone,
+  unity,
   reactjs,
   python,
   tailwind,
@@ -61,12 +61,12 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
+    name: "Drone",
+    icon: drone,
   },
   {
-    name: "CSS 3",
-    icon: css,
+    name: "Unity 3D",
+    icon: unity,
   },
   {
     name: "JavaScript",
