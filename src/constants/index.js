@@ -6,7 +6,7 @@ import {
   apple,
   android,
   drone,
-  unity,
+  php,
   reactjs,
   python,
   php,
@@ -65,8 +65,8 @@ const technologies = [
     icon: drone,
   },
   {
-    name: "unity",
-    icon: unity,
+    name: "css",
+    icon: css,
   },
   {
     name: "apple",

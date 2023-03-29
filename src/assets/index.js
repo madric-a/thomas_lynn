@@ -9,7 +9,7 @@ import close from "./close.svg";
 
 import apple from "./tech/apple.png";
 import docker from "./tech/docker.png";
-import unity from "./tech/unity.png";
+
 import git from "./tech/git.png";
 import drone from "./tech/drone.png";
 
@@ -20,6 +20,7 @@ import python from "./tech/python.png";
 import php from "./tech/php.png";
 import android from "./tech/android.png";
 import threejs from "./tech/threejs.svg";
+import unity from "./tech/unity.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -39,7 +40,7 @@ export {
   github,
   menu,
   close,
-  unity,
+  apple,
   docker,
   unity,
   git,
