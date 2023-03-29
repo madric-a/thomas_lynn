@@ -12,7 +12,7 @@ import docker from "./tech/docker.png";
 import unity from "./tech/unity.png";
 import git from "./tech/git.png";
 import drone from "./tech/drone.png";
-import javascript from "./tech/javascript.png";
+import apple from "./tech/apple.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
@@ -44,7 +44,7 @@ export {
   unity,
   git,
   drone,
-  javascript,
+  apple,
   mongodb,
   nodejs,
   reactjs,

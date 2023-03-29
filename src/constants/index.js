@@ -3,7 +3,7 @@ import {
   backend,
   creator,
   web,
-  javascript,
+  apple,
   android,
   drone,
   unity,
@@ -69,8 +69,8 @@ const technologies = [
     icon: unity,
   },
   {
-    name: "JavaScript",
-    icon: javascript,
+    name: "Apple",
+    icon: apple,
   },
   {
     name: "Android",
