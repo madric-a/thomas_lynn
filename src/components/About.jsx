@@ -47,13 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        As an aspiring developer, I have been on a continuous journey of learning and upskilling. 
-        I have completed several courses in various areas, including web hacking and security, 3D Game Development, and drone setup.
-        I also have a solid understanding of programming languages such as Python and C++, as well as data structures and algorithms. 
-        Moreover, I have set up several drones with long-range radio transceivers, GPS, and FPV cameras using open-source platforms.
-        I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        As an enthusiastic learner, I have pursued my interests in various fields of technology, including 3D game development, web security, and DevOps. In 3D game development, I have learned various game engines and frameworks, including Unity and Unreal Engine, and created game assets using tools like Blender and Maya. Additionally, I have delved into web security, gaining expertise in server-side vulnerabilities like code injection and SQL injection, and client-side vulnerabilities like cross-site scripting and cookie manipulation. I also have experience in DevOps, including continuous integration and delivery, containerization, and deployment using tools like Docker, Kubernetes, and Jenkins. My passion for technology and my dedication to learning have allowed me to complete real-world projects and develop valuable skills that I can apply to my future endeavors.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
