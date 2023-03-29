@@ -9,7 +9,7 @@ import {
   unity,
   reactjs,
   python,
-  tailwind,
+  php,
   nodejs,
   mongodb,
   git,
@@ -85,8 +85,8 @@ const technologies = [
     icon: python,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "PHP",
+    icon: php,
   },
   {
     name: "Node JS",

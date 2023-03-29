@@ -17,7 +17,7 @@ import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import python from "./tech/python.png";
-import tailwind from "./tech/tailwind.png";
+import php from "./tech/php.png";
 import android from "./tech/android.png";
 import threejs from "./tech/threejs.svg";
 
@@ -49,7 +49,7 @@ export {
   nodejs,
   reactjs,
   python,
-  tailwind,
+  php,
   android,
   threejs,
   meta,
