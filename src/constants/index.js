@@ -4,7 +4,7 @@ import {
   creator,
   web,
   javascript,
-  typescript,
+  android,
   html,
   css,
   reactjs,
@@ -73,8 +73,8 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Android",
+    icon: android,
   },
   {
     name: "React JS",
