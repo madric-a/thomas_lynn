@@ -9,7 +9,7 @@ import close from "./close.svg";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
+import unity from "./tech/unity.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
@@ -41,7 +41,7 @@ export {
   close,
   css,
   docker,
-  figma,
+  unity,
   git,
   html,
   javascript,
