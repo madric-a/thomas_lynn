@@ -47,9 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
+        As an aspiring developer, I have been on a continuous journey of learning and upskilling. 
+        I have completed several courses in various areas, including web hacking and security, 3D Game Development, and drone setup.
+        I also have a solid understanding of programming languages such as Python and C++, as well as data structures and algorithms. 
+        Moreover, I have set up several drones with long-range radio transceivers, GPS, and FPV cameras using open-source platforms.
+        I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
         real-world problems. Let's work together to bring your ideas to life!
       </motion.p>
